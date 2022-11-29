@@ -1,4 +1,4 @@
-import java.io.File;
+/*import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
@@ -52,4 +52,4 @@ public class StringSearch {
             System.out.println("Invalid input");
         }
     }
-}
+}*/
