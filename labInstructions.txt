@@ -1,0 +1,29 @@
+1.  Introduction 
+ 
+Code  review  is  a  common  practice  to  improve  quality  and  transparency  of  the  source  code  in 
+software development. In this lab, you will practice code review by systematically examining the 
+previously unknown 
+
+2.  Learning Objectives 
+ 
+The lab aims at giving practical experience of performing code review. In the lab, you will work 
+with two different forms of code r
+
+3.  Preparation 
+ 
+Assignment 1: Read: 
+a) Code reviewing in the trenches: challenges and best practices [1], by MacLeod et al. 
+b) 
+ 
+Assignment 2: Create your GitHub repository: 
+a) 
+
+Assignment 3: Prepare and commit code to your GitHub repository: 
+a) Write code in Java to implement a program for searching strings in a file.
+ 
+Assignment 4: Pair-review (2 persons a group) 
+ 
+Assignment 5: Group-review (5-6 persons a group) 
+a) You will be assigned to a group, or a breakout room on Zoom if online, with 5 to 6 persons, 
+
+ 
