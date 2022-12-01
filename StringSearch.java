@@ -13,12 +13,12 @@ public class StringSearch {
         this.path = path;
     }
 
-    private void run(String input) {
+    public String getLines(String keyword) {
         try {
             Scanner scan = new Scanner(new File(path));
             while(scan.hasNextLine()) {
                 String line = scan.nextLine();
-                if(line.contains(input)) {
+                if(line.contains(keyword)) {
                     output += line + "\n";
                 }
             }
@@ -27,10 +27,7 @@ public class StringSearch {
             //e.printStackTrace();
             System.out.println("File not found");
         }
-    }
-
-    public String getLines(String keyword) {
-        run(keyword);
+        
         if(output.isEmpty()) {
             return "No lines found";
         }
